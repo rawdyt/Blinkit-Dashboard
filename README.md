@@ -63,7 +63,7 @@ As per the Outlate Type
 
 # Snapshot of Dashboard (Power BI Service)
 
-![Dashboard](https://raw.githubusercontent.com/rawdyt/new/main/Dashboard.jpg)
+![Dashboard](https://raw.githubusercontent.com/rawdyt/Blinkit-Dashboard/main/Dashboard.jpg)
 
 
 # Insights
