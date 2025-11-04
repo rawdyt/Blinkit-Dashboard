@@ -31,7 +31,7 @@ This project aims to explore these relationships using data-driven insights and 
 
  Snap of the KPI'S,
 
-![Dashboard_upload](https://raw.githubusercontent.com/rawdyt/new/main/nwew%20(1).png)
+![Dashboard_upload](https://raw.githubusercontent.com/rawdyt/Blinkit-Dashboard/main/nwew.jpg)
 
 
 - Step 6 : We have provided 3 different Visual filters were added  so that we can filter the data as per our need (Outlate type, Outlate location type,Outlate size)
