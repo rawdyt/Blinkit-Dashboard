@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Blinkit-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/0eeb696f-74c8-4723-b2d1-442c6fac130c/795acb4ccef1a2ca16fe?experience=power-bi
 
@@ -83,4 +83,3 @@ Following inferences can be drawn from the dashboard;
 5) Outlates which are established in 2028 are performing better than other.
 
 6) Super Market type1 have the highest sales than other.
-7) # Hello
